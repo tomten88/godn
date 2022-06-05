@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JOSProjects/IMDb-Movie-Bot",
-    "repository": "https://github.com/JOSProjects/IMDb-Movie-Bot",
+    "website": "https://github.com/tomten88/godn",
+    "repository": "https://github.com/tomten88/godn",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
